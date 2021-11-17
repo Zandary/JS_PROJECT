@@ -27,25 +27,25 @@
     {
       "id": 7,
       "nom": "Nouveau module",
-      "responsable": "RAJAONARIVONY Rivo Lalaina",
+      "responsable": "RABEMILA Tanjona",
       "description": "Créer un nouveau module customisés pour gérer les salles de réunion de l'entreprise.",
-      "date": "2021-10-21",
+      "date": "2021-11-02",
       "statut": "Fini"
     },
     {
       "id": 8,
       "nom": "Formation5",
-      "responsable": "DP Christophe5",
+      "responsable": "EMASINDRA Eddy Nicolas",
       "description": "Essaie",
-      "date": "2021-10-06",
+      "date": "2021-11-01",
       "statut": "Fini"
     },
     {
       "id": 9,
-      "nom": "Suivi du projet",
-      "responsable": "Rivomanitra",
-      "description": "Maintenir le projets durant la phase de teste.",
-      "date": "10/09/2020",
+      "nom": "tedteur",
+      "responsable": "Fitia Nomena 1",
+      "description": "Dummy data\n",
+      "date": "2021-11-07",
       "statut": "Fini"
     }
   ]
